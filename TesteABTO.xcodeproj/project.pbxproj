@@ -15,6 +15,24 @@
 		08A7CEFA1BC4310C00510D02 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CEF91BC4310C00510D02 /* Images.xcassets */; };
 		08A7CEFD1BC4310C00510D02 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CEFB1BC4310C00510D02 /* LaunchScreen.xib */; };
 		08A7CF091BC4310C00510D02 /* TesteABTOTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 08A7CF081BC4310C00510D02 /* TesteABTOTests.m */; };
+		08A7CF131BC4312300510D02 /* AbtoSipClientWrapper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08A7CF121BC4312300510D02 /* AbtoSipClientWrapper.framework */; };
+		08A7CF241BC4312900510D02 /* abto_dtmf-0.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF151BC4312900510D02 /* abto_dtmf-0.wav */; };
+		08A7CF251BC4312900510D02 /* abto_dtmf-1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF161BC4312900510D02 /* abto_dtmf-1.wav */; };
+		08A7CF261BC4312900510D02 /* abto_dtmf-2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF171BC4312900510D02 /* abto_dtmf-2.wav */; };
+		08A7CF271BC4312900510D02 /* abto_dtmf-3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF181BC4312900510D02 /* abto_dtmf-3.wav */; };
+		08A7CF281BC4312900510D02 /* abto_dtmf-4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF191BC4312900510D02 /* abto_dtmf-4.wav */; };
+		08A7CF291BC4312900510D02 /* abto_dtmf-5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF1A1BC4312900510D02 /* abto_dtmf-5.wav */; };
+		08A7CF2A1BC4312900510D02 /* abto_dtmf-6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF1B1BC4312900510D02 /* abto_dtmf-6.wav */; };
+		08A7CF2B1BC4312900510D02 /* abto_dtmf-7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF1C1BC4312900510D02 /* abto_dtmf-7.wav */; };
+		08A7CF2C1BC4312900510D02 /* abto_dtmf-8.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF1D1BC4312900510D02 /* abto_dtmf-8.wav */; };
+		08A7CF2D1BC4312900510D02 /* abto_dtmf-9.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF1E1BC4312900510D02 /* abto_dtmf-9.wav */; };
+		08A7CF2E1BC4312900510D02 /* abto_dtmf-pound.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF1F1BC4312900510D02 /* abto_dtmf-pound.wav */; };
+		08A7CF2F1BC4312900510D02 /* abto_dtmf-star.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF201BC4312900510D02 /* abto_dtmf-star.wav */; };
+		08A7CF301BC4312900510D02 /* abto_keepawake.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF211BC4312900510D02 /* abto_keepawake.wav */; };
+		08A7CF311BC4312900510D02 /* abto_ringbacktone.wav in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF221BC4312900510D02 /* abto_ringbacktone.wav */; };
+		08A7CF321BC4312900510D02 /* abto_ringtone.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 08A7CF231BC4312900510D02 /* abto_ringtone.mp3 */; };
+		08A7CF341BC494BD00510D02 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08A7CF331BC494BD00510D02 /* AVFoundation.framework */; };
+		08A7CF361BC494C200510D02 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08A7CF351BC494C200510D02 /* AudioToolbox.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +60,24 @@
 		08A7CF021BC4310C00510D02 /* TesteABTOTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TesteABTOTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		08A7CF071BC4310C00510D02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		08A7CF081BC4310C00510D02 /* TesteABTOTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TesteABTOTests.m; sourceTree = "<group>"; };
+		08A7CF121BC4312300510D02 /* AbtoSipClientWrapper.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AbtoSipClientWrapper.framework; sourceTree = "<group>"; };
+		08A7CF151BC4312900510D02 /* abto_dtmf-0.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "abto_dtmf-0.wav"; sourceTree = "<group>"; };
+		08A7CF161BC4312900510D02 /* abto_dtmf-1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "abto_dtmf-1.wav"; sourceTree = "<group>"; };
+		08A7CF171BC4312900510D02 /* abto_dtmf-2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "abto_dtmf-2.wav"; sourceTree = "<group>"; };
+		08A7CF181BC4312900510D02 /* abto_dtmf-3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "abto_dtmf-3.wav"; sourceTree = "<group>"; };
+		08A7CF191BC4312900510D02 /* abto_dtmf-4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "abto_dtmf-4.wav"; sourceTree = "<group>"; };
+		08A7CF1A1BC4312900510D02 /* abto_dtmf-5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "abto_dtmf-5.wav"; sourceTree = "<group>"; };
+		08A7CF1B1BC4312900510D02 /* abto_dtmf-6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "abto_dtmf-6.wav"; sourceTree = "<group>"; };
+		08A7CF1C1BC4312900510D02 /* abto_dtmf-7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "abto_dtmf-7.wav"; sourceTree = "<group>"; };
+		08A7CF1D1BC4312900510D02 /* abto_dtmf-8.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "abto_dtmf-8.wav"; sourceTree = "<group>"; };
+		08A7CF1E1BC4312900510D02 /* abto_dtmf-9.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "abto_dtmf-9.wav"; sourceTree = "<group>"; };
+		08A7CF1F1BC4312900510D02 /* abto_dtmf-pound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "abto_dtmf-pound.wav"; sourceTree = "<group>"; };
+		08A7CF201BC4312900510D02 /* abto_dtmf-star.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "abto_dtmf-star.wav"; sourceTree = "<group>"; };
+		08A7CF211BC4312900510D02 /* abto_keepawake.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = abto_keepawake.wav; sourceTree = "<group>"; };
+		08A7CF221BC4312900510D02 /* abto_ringbacktone.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = abto_ringbacktone.wav; sourceTree = "<group>"; };
+		08A7CF231BC4312900510D02 /* abto_ringtone.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abto_ringtone.mp3; sourceTree = "<group>"; };
+		08A7CF331BC494BD00510D02 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		08A7CF351BC494C200510D02 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +85,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08A7CF361BC494C200510D02 /* AudioToolbox.framework in Frameworks */,
+				08A7CF341BC494BD00510D02 /* AVFoundation.framework in Frameworks */,
+				08A7CF131BC4312300510D02 /* AbtoSipClientWrapper.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +104,9 @@
 		08A7CEDD1BC4310C00510D02 = {
 			isa = PBXGroup;
 			children = (
+				08A7CF351BC494C200510D02 /* AudioToolbox.framework */,
+				08A7CF331BC494BD00510D02 /* AVFoundation.framework */,
+				08A7CF121BC4312300510D02 /* AbtoSipClientWrapper.framework */,
 				08A7CEE81BC4310C00510D02 /* TesteABTO */,
 				08A7CF051BC4310C00510D02 /* TesteABTOTests */,
 				08A7CEE71BC4310C00510D02 /* Products */,
@@ -83,6 +125,7 @@
 		08A7CEE81BC4310C00510D02 /* TesteABTO */ = {
 			isa = PBXGroup;
 			children = (
+				08A7CF141BC4312900510D02 /* Resources */,
 				08A7CEED1BC4310C00510D02 /* AppDelegate.h */,
 				08A7CEEE1BC4310C00510D02 /* AppDelegate.m */,
 				08A7CEF31BC4310C00510D02 /* ViewController.h */,
@@ -120,6 +163,28 @@
 				08A7CF071BC4310C00510D02 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		08A7CF141BC4312900510D02 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				08A7CF151BC4312900510D02 /* abto_dtmf-0.wav */,
+				08A7CF161BC4312900510D02 /* abto_dtmf-1.wav */,
+				08A7CF171BC4312900510D02 /* abto_dtmf-2.wav */,
+				08A7CF181BC4312900510D02 /* abto_dtmf-3.wav */,
+				08A7CF191BC4312900510D02 /* abto_dtmf-4.wav */,
+				08A7CF1A1BC4312900510D02 /* abto_dtmf-5.wav */,
+				08A7CF1B1BC4312900510D02 /* abto_dtmf-6.wav */,
+				08A7CF1C1BC4312900510D02 /* abto_dtmf-7.wav */,
+				08A7CF1D1BC4312900510D02 /* abto_dtmf-8.wav */,
+				08A7CF1E1BC4312900510D02 /* abto_dtmf-9.wav */,
+				08A7CF1F1BC4312900510D02 /* abto_dtmf-pound.wav */,
+				08A7CF201BC4312900510D02 /* abto_dtmf-star.wav */,
+				08A7CF211BC4312900510D02 /* abto_keepawake.wav */,
+				08A7CF221BC4312900510D02 /* abto_ringbacktone.wav */,
+				08A7CF231BC4312900510D02 /* abto_ringtone.mp3 */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -171,6 +236,11 @@
 				TargetAttributes = {
 					08A7CEE51BC4310C00510D02 = {
 						CreatedOnToolsVersion = 6.4;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 					08A7CF011BC4310C00510D02 = {
 						CreatedOnToolsVersion = 6.4;
@@ -202,9 +272,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08A7CF321BC4312900510D02 /* abto_ringtone.mp3 in Resources */,
+				08A7CF241BC4312900510D02 /* abto_dtmf-0.wav in Resources */,
+				08A7CF311BC4312900510D02 /* abto_ringbacktone.wav in Resources */,
+				08A7CF301BC4312900510D02 /* abto_keepawake.wav in Resources */,
+				08A7CF2B1BC4312900510D02 /* abto_dtmf-7.wav in Resources */,
 				08A7CEF81BC4310C00510D02 /* Main.storyboard in Resources */,
+				08A7CF2F1BC4312900510D02 /* abto_dtmf-star.wav in Resources */,
+				08A7CF2D1BC4312900510D02 /* abto_dtmf-9.wav in Resources */,
 				08A7CEFD1BC4310C00510D02 /* LaunchScreen.xib in Resources */,
+				08A7CF2C1BC4312900510D02 /* abto_dtmf-8.wav in Resources */,
 				08A7CEFA1BC4310C00510D02 /* Images.xcassets in Resources */,
+				08A7CF2A1BC4312900510D02 /* abto_dtmf-6.wav in Resources */,
+				08A7CF281BC4312900510D02 /* abto_dtmf-4.wav in Resources */,
+				08A7CF261BC4312900510D02 /* abto_dtmf-2.wav in Resources */,
+				08A7CF2E1BC4312900510D02 /* abto_dtmf-pound.wav in Resources */,
+				08A7CF251BC4312900510D02 /* abto_dtmf-1.wav in Resources */,
+				08A7CF291BC4312900510D02 /* abto_dtmf-5.wav in Resources */,
+				08A7CF271BC4312900510D02 /* abto_dtmf-3.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -353,9 +438,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = TesteABTO/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALID_ARCHS = "arm64 armv7";
 			};
 			name = Debug;
 		};
@@ -363,9 +454,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = TesteABTO/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALID_ARCHS = "arm64 armv7";
 			};
 			name = Release;
 		};
